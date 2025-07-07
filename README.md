@@ -12,4 +12,4 @@ The models were trained and evaluated using the **IoT-23 dataset**, a labeled da
 
 All experiments were conducted using **Python (TensorFlow/Keras)** in **Google Colab**, with evaluation metrics including **accuracy, recall, F1-score**, and **time cost**. Results showed that Basic Autoencoder and GAN models delivered the best performance in terms of detection quality and speed.
 
-> Note: Due to GitHub's file size restrictions, the dataset is not included in this repository. Please refer to [IoT-23 Dataset on Zenodo](https://doi.org/10.5281/zenodo.4743746) to access the data.
+> Note: Due to GitHub's file size restrictions, the dataset is not included in this repository. Please refer to [IoT-23 Dataset](https://www.stratosphereips.org/datasets-iot23) to access the data.
